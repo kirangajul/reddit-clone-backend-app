@@ -8,7 +8,7 @@ import org.junit.jupiter.api.Test;
 
 import com.redditclone.exceptions.SpringRedditException;
 
-public class CommentServiceTest {
+class CommentServiceTest {
 
 	@Test
 	@DisplayName("Test Should Pass When Comment do not Contains Swear Words")
